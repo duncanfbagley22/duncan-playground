@@ -31,6 +31,14 @@
           ]
         },
         {
+          "name": "References",
+          "links": [
+            { "name": "Mobbin", "url": "https://mobbin.com/discover/apps/ios/popular", "icon": "fa-mobile-screen", "color": "#181717" },
+            { "name": "Uiverse", "url": "https://uiverse.io/", "icon": "fa-pager", "color": "#8F00FF" },
+            { "name": "Uiverse", "url": "https://refero.design/apps", "icon": "fa-pager", "color": "#141414" }
+          ]
+        },
+        {
           "name": "Ai",
           "links": [
             { "name": "ChatGPT", "url": "https://chatgpt.com", "icon": "fa-robot", "color": "#181717" },
