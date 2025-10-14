@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "name": "Coding",
+      "icon": "fa-code",
+      "color": "#FF6B6B",
+      "subcategories": [
+        {
+          "name": "Projects",
+          "links": [
+            { "name": "Country Foods", "url": "https://duncanfbagley22.github.io/country-randomizer/", "icon": "fa-kitchen-set", "color": "#FFB347" },
+            { "name": "Corgi Butt", "url": "https://duncanfbagley22.github.io/corgi-butt/dashboard", "icon": "fa-soap", "color": "#5BC0EB" },
+            { "name": "Personal Page", "url": "https://duncanfbagley22.github.io/duncanpersonalpage/", "icon": "fa-user", "color": "#7E7E7E" },
+            { "name": "Duncan Bagley Papers", "url": "https://duncanfbagley22.github.io/DuncanBagleyPapers/", "icon": "fa-book", "color": "#007849" }
+          ]
+        },
+        {
+          "name": "Design",
+          "links": [
+            { "name": "Figma", "url": "https://figma.com", "icon": "fa-brands fa-figma", "color": "#F24E1E" },
+            { "name": "Canva", "url": "https://canva.com", "icon": "fa-pen", "color": "#00C4CC" },
+            { "name": "Font Awesome", "url": "https://fontawesome.com/", "icon": "fa-font-awesome", "color": "#528DD7" }
+          ]
+        },
+        {
+          "name": "Codebase",
+          "links": [
+            { "name": "GitHub", "url": "https://github.com", "icon": "fa-brands fa-github", "color": "#181717" }
+          ]
+        },
+        {
+          "name": "Ai",
+          "links": [
+            { "name": "ChatGPT", "url": "https://chatgpt.com", "icon": "fa-robot", "color": "#181717" },
+            { "name": "Claude", "url": "https://claude.ai/new", "icon": "fa-robot", "color": "#C15F3C" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Work",
+      "icon": "fa-briefcase",
+      "color": "#4ECDC4",
+      "subcategories": [
+        {
+          "name": "Personal",
+          "links": [
+            { "name": "LinkedIn", "url": "https://slack.com", "icon": "fa-brands fa-linkedin", "color": "#0077B5" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exercise",
+      "icon": "fa-person-running",
+      "color": "#E6C13D",
+      "subcategories": [
+        {
+          "name": "Running",
+          "links": [
+            { "name": "Map My Run", "url": "https://us.mapometer.com/", "icon": "fa-map", "color": "#1747A6" },
+            { "name": "City Strides", "url": "https://citystrides.com/users/43606", "icon": "fa-route", "color": "#FF6600" }
+          ]
+        }
+      ]
+    }
+  ]
+}
