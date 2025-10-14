@@ -59,7 +59,8 @@
           "name": "Running",
           "links": [
             { "name": "Map My Run", "url": "https://us.mapometer.com/", "icon": "fa-map", "color": "#1747A6" },
-            { "name": "City Strides", "url": "https://citystrides.com/users/43606", "icon": "fa-route", "color": "#FF6600" }
+            { "name": "City Strides", "url": "https://citystrides.com/users/43606", "icon": "fa-route", "color": "#FF6600" },
+            { "name": "Strava", "url": "https://www.strava.com/dashboard", "icon": "fa-brands fa-strava", "color": "#FC4C02" }
           ]
         }
       ]
