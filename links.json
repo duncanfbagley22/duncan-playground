@@ -27,7 +27,7 @@
           "links": [
             { "name": "GitHub", "url": "https://github.com", "icon": "fa-brands fa-github", "color": "#181717" },
             { "name": "Supabase", "url": "https://supabase.com/dashboard/org/hrovicrflbnfgytkgqdo", "icon": "fa-database", "color": "#34B27B" },
-            { "name": "Firebase", "url": "https://firebase.google.com/", "icon": "fa-fire", "color": "#FC4C02" },
+            { "name": "Firebase", "url": "https://firebase.google.com/", "icon": "fa-fire", "color": "#FC4C02" }
           ]
         },
         {
