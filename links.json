@@ -18,6 +18,7 @@
           "name": "Design",
           "links": [
             { "name": "Figma", "url": "https://figma.com", "icon": "fa-brands fa-figma", "color": "#F24E1E" },
+            { "name": "Whimsical", "url": "https://whimsical.com/JEnL37e2YJBBRN2QKTnyTa", "icon": "fa-diamond", "color": "#3A00FF" },
             { "name": "Canva", "url": "https://canva.com", "icon": "fa-pen", "color": "#00C4CC" },
             { "name": "Font Awesome", "url": "https://fontawesome.com/", "icon": "fa-font-awesome", "color": "#528DD7" }
           ]
