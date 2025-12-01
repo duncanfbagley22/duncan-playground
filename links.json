@@ -9,7 +9,7 @@
           "name": "Projects",
           "links": [
             { "name": "Country Foods", "url": "https://duncanfbagley22.github.io/country-randomizer/", "icon": "fa-kitchen-set", "color": "#FFB347" },
-            { "name": "Corgi Butt", "url": "https://duncanfbagley22.github.io/corgi-butt/dashboard", "icon": "fa-soap", "color": "#5BC0EB" },
+            { "name": "Corgi Butt", "url": "https://corgi-butt.vercel.app/", "icon": "fa-soap", "color": "#5BC0EB" },
             { "name": "Personal Page", "url": "https://duncanfbagley22.github.io/duncanpersonalpage/", "icon": "fa-user", "color": "#7E7E7E" },
             { "name": "Duncan Bagley Papers", "url": "https://duncanfbagley22.github.io/DuncanBagleyPapers/", "icon": "fa-book", "color": "#007849" },
             { "name": "Personal Website", "url": "https://duncanfbagley22.github.io/duncanpersonalpage/", "icon": "fa-user", "color": "#305CDE" }
