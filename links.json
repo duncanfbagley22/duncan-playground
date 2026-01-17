@@ -21,6 +21,8 @@
             { "name": "Figma", "url": "https://figma.com", "icon": "fa-brands fa-figma", "color": "#F24E1E" },
             { "name": "Whimsical", "url": "https://whimsical.com/JEnL37e2YJBBRN2QKTnyTa", "icon": "fa-diamond", "color": "#3A00FF" },
             { "name": "Canva", "url": "https://canva.com", "icon": "fa-pen", "color": "#00C4CC" },
+            { "name": "Banani", "url": "https://www.banani.co/references/apps", "icon": "fa-compass-drawing", "color": "#19a0fa" },
+            { "name": "Dribbble", "url": "https://dribbble.com/shots/popular", "icon": "fa-brands fa-dribbble", "color": "#ea4c89" },
             { "name": "Font Awesome", "url": "https://fontawesome.com/", "icon": "fa-font-awesome", "color": "#528DD7" }
           ]
         },
